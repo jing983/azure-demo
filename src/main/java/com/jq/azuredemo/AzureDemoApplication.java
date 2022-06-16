@@ -11,7 +11,7 @@ public class AzureDemoApplication {
 	
 	@GetMapping("/message")
 	public String message() {
-		return "Hello world. This is an Azure demo.";
+		return "Hello Team Chicago. Do you like this demo?";
 	}
 
 	public static void main(String[] args) {
